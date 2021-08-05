@@ -38,6 +38,13 @@
 #print(lista)
 #print(lista2)
 
+#Verificando Numeros da lista
+#print(sum(lista))
+#print(min(lista))
+#print(max(lista))
+#print(len(lista))
+
+
 #Verificando a ocorrencia de valor na lista
 #print(lista.count(2))
 #print(lista.count(6))
