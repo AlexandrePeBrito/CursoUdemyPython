@@ -1,0 +1,1 @@
+#leia o tamanho do lado de um quadrado e imprima como resultado a area.
