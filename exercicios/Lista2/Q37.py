@@ -1,6 +1,7 @@
 #As tarifas de certo parque de estacionamento são as seguintes:
-#e 1º e 2º hora - R$ 1,00 cada e 3º e 4º hora - R$ 1,40 cada
-#e 5º hora e seguintes - R$ 2,00 cada
+#1º e 2º hora - R$ 1,00 cada
+#3º e 4º hora - R$ 1,40 cada
+#5º hora e seguintes - R$ 2,00 cada
 #O número de horas a pagar é sempre inteiro e arredondado por excesso. Deste modo,
 #quem estacionar durante 61 minutos pagará por duas horas, que é o mesmo que pagaria
 #se tivesse permanecido 120 minutos. Os momentos de chegada ao parque e partida

@@ -3,6 +3,11 @@
 #Considere que a cada execução somente será calculado um pedido. O cardápio da lan-
 #chonete segue o padrão abaixo:
 
-#[ Gachoro Quente | 100 | 1.20 |
-#[Bauru Símples — 101 | 130 |
-#[Retigerane — | 106 [ 1.00]
+#Especificação    | Codigo  | Preço |
+#[Gachoro Quente  |   100   | 1.20  |
+#[Bauru Símples   |   101   | 1.30  |
+#[Bauru c/Ovo     |   102   | 1.50  |
+#[Hamburguer      |   103   | 1.20  |
+#[Cheeseburguer   |   104   | 1.70  |
+#[suco            |   105   | 2.20  |
+#[Retigerane      |   106   | 1.00  |

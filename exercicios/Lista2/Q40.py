@@ -3,8 +3,7 @@
 #de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao
 #consumidor.
 
-#CUSTO DE FÁBRICA % DO DISTRIBUIDOR | % DOS IMPOSTOS
-
-#até R$512.000,00 Ls sm |
-#enre R$12.000,00 e 25.000,00
-#acima de R$25.000,00
+#CUSTO DE FÁBRICA               |% DO DISTRIBUIDOR | % DOS IMPOSTOS
+#até R$512.000,00               |         5        |   isento
+#entre R$12.000,00 e 25.000,00  |         10       |    15
+#acima de R$25.000,00           |         15       |    20
