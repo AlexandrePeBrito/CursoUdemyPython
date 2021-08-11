@@ -3,3 +3,4 @@
 #conjuntos têm 5 elementos cada. Imprimir os dois conjuntos
 #e o produto escalar, sendo que o produto escalar é dado 
 #por: x1 *y1 + 12 * ya + .. + Tn *UYn.
+
