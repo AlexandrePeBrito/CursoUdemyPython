@@ -3,3 +3,5 @@
 #de 1997, os aumentos sempre correspondem ao dobro do ano
 #anterior. Faça programa que determine o salário atual do 
 #funcionário.
+
+#Questao repitida
