@@ -3,6 +3,4 @@
 #O programa fica pedindo estes valores e calculando até que
 #o usuário entre com um valor para resistência igual a zero.
 
-#Rl+ R2
-#BM,
-#RI+R2
+#R=(r1*r2)/(r1+r2)

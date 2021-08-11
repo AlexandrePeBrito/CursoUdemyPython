@@ -4,4 +4,4 @@
 #de mais alta ordem elevada ao quadrado é igual ao próprio
 #numero. Por exemplo,para o inteiro 3025, temos que:
 #30+25=55
-#552 = 3025
+#55^2 = 3025
