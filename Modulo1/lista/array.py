@@ -88,11 +88,11 @@ print(lista7)
 lista7 = lista7.split()     #separa os elementos pelos espaços entre elas
 print(lista7)
 
-print(lista8)
+#print(lista8)
 lista8 = lista8.split(',') #separa os elementos pelo parametro
-print(lista8)
+#print(lista8)
 
 #convertendo Lista em String 
-frase = " ".join(lista7)
-print(frase)
+#frase = " ".join(lista7)
+#print(frase)
 
