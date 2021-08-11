@@ -4,3 +4,10 @@
 #o usuário entre com um valor para resistência igual a zero.
 
 #R=(r1*r2)/(r1+r2)
+R=0
+while(R!=1):
+    r1=int(input("Informe um valor: "))
+    r2=int(input("Informe um valor: "))
+
+    R=(r1*r2)/(r1+r2)
+
