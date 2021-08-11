@@ -5,7 +5,15 @@
 #-5,7.
 #(b) Armazene em uma variável inteira (simples) a soma 
 #entre os valores das posições
-#A(Oo]), Af1] e AÍS] do vetor e mostre na tela esta soma.
+#A[0], A[1] e A[5] do vetor e mostre na tela esta soma.
 #(c) Modifique o vetor na posição 4, atribuindo a esta posição
 #o valor 100.
 #(d) Mostre na tela cada valor do vetor A, um em cada linha.
+
+vetorA=[1,0,5,-2,-5,7]
+
+num=vetorA[0]+vetorA[1]+vetorA[5]
+
+vetorA[4]=100
+for c in range(0,len(vetorA)):
+    print(vetorA[c])
