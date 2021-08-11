@@ -9,4 +9,15 @@
 #Digite o valor inicial e valor final: 5 
 # 10 
 #Soma dos ímpares neste intervalo: 21
+valores=[]
+inicio=int(input("Informe o numero inicial: "))
+final=int(input("Informe o numero Final: "))
 
+if(inicio<final):
+    for c in range(inicio,final+1):
+        if(c%2==1):
+            valores.append(c)
+    print(f"Soma dos ímpares neste intervalo: {sum(valores)}")
+else:
+    print("Intervalo invalido!")
+    
