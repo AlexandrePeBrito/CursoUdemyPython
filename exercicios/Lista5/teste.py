@@ -1,1 +1,0 @@
- if(((0<int(data[0])) and (int(data[0])>32)) and ((0<int(data[1])) and (int(data[1]<13))) and (int(data[2])<=2021)):
