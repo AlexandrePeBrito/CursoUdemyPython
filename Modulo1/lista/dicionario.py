@@ -6,7 +6,7 @@ print(paises)
 #Acessando o dicionario
 #modelo 1
 print(paises['br'])              #Para acessar um dicionario vc precisar acessar sua chave
-#print(paises['ru'])             #Caso tenha um acesso que nao existe dara um ERROR
+#print(paises['ru'])             #Caso tenha um acesso que nao existe dara um ERROR.
 
 #modelo 2
 print(paises.get('br'))
