@@ -40,12 +40,6 @@ os.removedirs('CursoUdemyPy\\modulo')
 os.removedirs('CursoUdemyPy')
 """
 
-#Biblioteca Send to Trash
-from send2trash import send2trash
-
-send2trash('testess.txt')
-
-
 
 
 
