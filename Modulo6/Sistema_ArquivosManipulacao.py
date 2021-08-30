@@ -26,21 +26,24 @@ os.makedirs('CursoUdemyP\\Modulo7\\tes', exist_ok=True)        #Cria conjunto de
 os.rename('CursoUdemyP','CursoUdemyPy')
 
 os.rename('CursoUdemyPy\\Modulo7','CursoUdemyPy\\modulo')       #precisa colocar o caminho
+
+
+#Deleta arquivos   ->Deleta apenas arquivos
+#Obs: o arquivo deletado não vai para lixeira, ele some
+os.remove('teste.txt')              #caso nao exista da erro
+
+#Deleta Direitorios
+os.rmdir("aleatorio")               #Caso o direitorio tenha algo dentro não eh deletado
+
+#Removendo uma Arvore do direitorio
+os.removedirs('CursoUdemyPy\\modulo')
+os.removedirs('CursoUdemyPy')
 """
 
-#Deleter arquivos
-#Obs: o arquivo deletado não vai para lixeira, ele some
-os.remove('teste.txt')
+#Biblioteca Send to Trash
+from send2trash import send2trash
 
-
-
-
-
-
-
-
-
-
+send2trash('testess.txt')
 
 
 
