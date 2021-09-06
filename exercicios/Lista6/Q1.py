@@ -17,3 +17,4 @@ while(texto!='0'):
         arquivo.write('\n')
 arq=open('CursoUdemyPython/exercicios/Lista6/arq.txt')
 print(arq.read())
+arquivo.close()
