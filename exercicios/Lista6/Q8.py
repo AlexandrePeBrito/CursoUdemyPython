@@ -3,7 +3,7 @@ conteúdo, mas com todas as letras minúsculas convertidas para maiúsculas. Os 
 mes dos arquivos serão fornecidos, via teclado, pelo usuário. A função que converte
 maiúscula para minúscula é o upper(). Ela é aplicada em cada caractere da string.
 """
-arq='CursoUdemyPython/exercicios/Lista6/arq.txt'
+arq=input("Informe o caminho do arquivo: ") #CursoUdemyPython/exercicios/Lista6/arq.txt
 arquivo=open(arq)
 arquivo2=open('CursoUdemyPython/exercicios/Lista6/novo.txt','w')
 texto=arquivo.read()

@@ -1,1 +1,3 @@
-alexandre
+salvador, 25000
+sao paulo, 750000
+rio de janeiro, 9547000

@@ -1,5 +1,6 @@
 """ 7. Faça um programa que receba do usuário um arquivo texto. Crie outro arquivo texto
 contendo o texto do arquivo de entrada, mas com as vogais substituídas por ". """
+
 arquivo=open('CursoUdemyPython/exercicios/Lista6/arq.txt')
 arquivo1=open('CursoUdemyPython/exercicios/Lista6/novo.txt','w') 
 texto=arquivo.read()

@@ -1,6 +1,6 @@
 
 arquivo=open('CursoUdemyPython/exercicios/Lista6/arq.txt')
-res= arquivo.read()
-for c in res:
-    print(c)
-print(res)
+linhas=arquivo.readlines()   
+cidade=[]
+cidade.append(linhas[0].split(','))
+print(int(cidade[0][1]))
