@@ -70,7 +70,9 @@ lamp2=Lampada(210,'verde')
 
 lamp1.intensidade='Forte'               #Atributo Dinamico 
 print(lamp1.intensidade)                #Atributo Dinamico 
-
+print(lamp1.__dict__)
+del lamp1.intensidade                   #Deletando atributo de forma dinamica
+print(lamp1.__dict__)
 #print(lamp2.intensidade)               #ERROR AttributeError
 
 
