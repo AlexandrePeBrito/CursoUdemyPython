@@ -1,0 +1,4 @@
+""" 
+Abstração e Encapsulamento ->
+
+"""
