@@ -2,3 +2,5 @@
 
 num =int(input("Informe um numero inteiro: "))
 print(num)
+
+'''/'''
